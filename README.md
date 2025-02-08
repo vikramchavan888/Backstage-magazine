@@ -22,7 +22,7 @@ In this project, I recreated the landing page of [Backstage Talks Magazine](http
 Clone the project
 
 ```bash
-  git clone https://github.com/victorcodess/backstage-talks
+  git clone https://github.com/vikramchavan888/Backstage-magazine
 ```
 
 Go to the project directory
@@ -49,6 +49,3 @@ Start the server
 In this project I learnt a couple of new things, especially CSS and JavaScript animations. The toughest part was recreating the scroll transitions that made the background color change. I also had fun making the scoll snap for each magazine section.
 
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
