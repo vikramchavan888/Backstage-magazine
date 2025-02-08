@@ -14,10 +14,7 @@ In this project, I recreated the landing page of [Backstage Talks Magazine](http
 ## Screenshots & Demo
 
 
-![App Screenshot](https://github-production-user-asset-6210df.s3.amazonaws.com/84178696/247821310-affac34b-e43b-4451-948a-4d02ff522642.png)
-
-
-[View Live Demo](https://backstage-talks-beta.vercel.app/)
+![App Screenshot](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1739039355/Screenshot_241_fmujzx.png)
 
 
 ## Run Locally
